@@ -22,7 +22,8 @@ h6 {
 }
 
 a {
-    color: #161616 text-decoration: none;
+    color: #161616;
+    text-decoration: none;
 }
 
 .visually-hidden {

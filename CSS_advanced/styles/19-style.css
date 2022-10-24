@@ -284,6 +284,7 @@ a:active {
     font-family: var(--font-family-title);
     text-transform: var(--section-tagline-transform);
     font-weight: var(--font-weight-bold);
+    margin: var(--section-tagline-margin);
 }
 
 .container {
@@ -386,5 +387,3 @@ ul.row {
 .footer ul {
     text-align: right;
 }
-
-Footer

@@ -392,3 +392,9 @@ ul.row {
 .footer ul {
     text-align: right;
 }
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
